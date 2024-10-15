@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\CNPM\\CNMP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpm\\cnmp\\cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpm\\cnmp\\cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM\\CNMP\\cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM\\CNMP\\cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM\\CNMP\\cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM\\CNMP\\cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM\\CNMP\\cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM\\CNMP\\cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DanhsachSP.cshtml",
               "DocumentMoniker": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
@@ -46,44 +50,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAcwLYBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T15:41:18.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_LayoutUser.cshtml",
-              "DocumentMoniker": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "ToolTip": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "RelativeToolTip": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "ViewState": "AgIAACoBAAAAAAAAAAAswPsCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T15:30:38.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T15:27:13.981Z",
+              "WhenOpened": "2024-10-10T15:41:18.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAcwIwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T15:30:38.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CNPM\\CNMP\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAGEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T15:27:13.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SanPhamController.cs",
               "DocumentMoniker": "D:\\CNPM\\CNMP\\CNPMNC\\Controllers\\SanPhamController.cs",
               "RelativeDocumentMoniker": "CNPMNC\\Controllers\\SanPhamController.cs",
