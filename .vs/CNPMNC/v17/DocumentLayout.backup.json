@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CNPMNC\\",
+  "WorkspaceRootPath": "D:\\CNPMNC - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc - copy\\cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC - Copy\\cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC - Copy\\cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC - Copy\\cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC - Copy\\cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,12 +41,16 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DanhsachSP.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
+              "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
+              "ToolTip": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -57,53 +61,49 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNPMNC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNPMNC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T15:41:18.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:41:18.459Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_LayoutUser.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
               "ViewState": "AgIAACoBAAAAAAAAAAAswPsCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T15:30:38.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:30:38.581Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T15:27:13.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:27:13.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SanPhamController.cs",
-              "DocumentMoniker": "D:\\CNPMNC\\CNPMNC\\Controllers\\SanPhamController.cs",
+              "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Controllers\\SanPhamController.cs",
               "RelativeDocumentMoniker": "CNPMNC\\Controllers\\SanPhamController.cs",
-              "ToolTip": "D:\\CNPMNC\\CNPMNC\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\CNPMNC - Copy\\CNPMNC\\Controllers\\SanPhamController.cs",
               "RelativeToolTip": "CNPMNC\\Controllers\\SanPhamController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:47:57.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T14:47:57.83Z"
             }
           ]
         }

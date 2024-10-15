@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\CNPMNC - Copy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC - Copy\\cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc - copy\\cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC - Copy\\cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC - Copy\\cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC - Copy\\cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DanhsachSP.cshtml",
               "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\Home\\Index.cshtml",
@@ -83,19 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\CNPMNC - Copy\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T15:27:13.981Z"
+              "WhenOpened": "2024-10-10T15:27:13.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SanPhamController.cs",
               "DocumentMoniker": "D:\\CNPMNC - Copy\\CNPMNC\\Controllers\\SanPhamController.cs",
               "RelativeDocumentMoniker": "CNPMNC\\Controllers\\SanPhamController.cs",
