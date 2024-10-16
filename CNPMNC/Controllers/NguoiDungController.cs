@@ -61,7 +61,7 @@ namespace CNPMNC.Controllers
             }
             else
             {
-                dbdangkyEntities db = new dbdangkyEntities();
+                dbdangkyEntities1 db = new dbdangkyEntities1();
                 //Gan gia tri cho doi tuong duoc tao moi (kh)
                 kh.HoTen = hoten;
                 kh.Taikhoan = tendn;
@@ -75,6 +75,48 @@ namespace CNPMNC.Controllers
                 return RedirectToAction("Dangnhap");
             }
             return this.DangKy();
+        }
+        [HttpGet]
+        public ActionResult DangNhap()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult DangNhap(FormCollection collection)
+        {
+            //Gan cac gia tri nguoi dung nhap vao cac bien
+            var tendn = collection["TenDN"];
+            var matkhau = collection["Matkhau"];
+            if (String.IsNullOrEmpty(tendn))
+            {
+                ViewData["Loi1"] = "Chưa nhập tên đăng nhập!";
+            }
+            else if (String.IsNullOrEmpty(matkhau))
+            {
+                ViewData["Loi2"] = "Chưa nhập mật khẩu!";
+            }
+            else
+            {
+                dbdangkyEntities1 db = new dbdangkyEntities1();
+                //Gan cac doi tuong duoc tao moi(kh)
+                KHACHHANG kh = db.KHACHHANGs.SingleOrDefault(n => n.Taikhoan == tendn && n.Matkhau == matkhau);
+                if (kh != null)
+                {
+                    //ViewBag.Thongbao = "Chúc mừng đăng nhập thành công!";
+                    Session["Taikhoan"] = kh;
+                    Session["TDN"] = kh.HoTen;
+                    return RedirectToAction("Index", "Home");
+                }
+                else
+                    ViewBag.Thongbao = "Tên đăng nhập hoặc mật khẩu không đúng!";
+            }
+            return View();
+        }
+        public ActionResult DangXuat()
+        {
+            Session["Taikhoan"] = null;
+            return View();
+
         }
     }
 }

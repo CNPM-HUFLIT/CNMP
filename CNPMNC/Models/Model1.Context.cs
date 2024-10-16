@@ -13,10 +13,10 @@ namespace CNPMNC.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class dbdangkyEntities : DbContext
+    public partial class dbdangkyEntities1 : DbContext
     {
-        public dbdangkyEntities()
-            : base("name=dbdangkyEntities")
+        public dbdangkyEntities1()
+            : base("name=dbdangkyEntities1")
         {
         }
     

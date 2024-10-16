@@ -39,7 +39,7 @@
           <Property Name="DienthoaiKH" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="Ngaysinh" Type="DateTime" Precision="3" />
         </EntityType>
-        <EntityContainer Name="dbdangkyEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="dbdangkyEntities1" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="KHACHHANGs" EntityType="Self.KHACHHANG" />
         </EntityContainer>
       </Schema>
@@ -47,7 +47,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="dbdangkyModelStoreContainer" CdmEntityContainer="dbdangkyEntities">
+        <EntityContainerMapping StorageEntityContainer="dbdangkyModelStoreContainer" CdmEntityContainer="dbdangkyEntities1">
           <EntitySetMapping Name="KHACHHANGs">
             <EntityTypeMapping TypeName="dbdangkyModel.KHACHHANG">
               <MappingFragment StoreEntitySet="KHACHHANG">
