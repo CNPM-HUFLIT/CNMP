@@ -1,0 +1,98 @@
+﻿
+@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    title {
+    }
+
+    p {
+        color: red;
+    }
+
+    input {
+        width: 50%;
+    }
+
+    tr {
+        height: 40px;
+        width: 100%;
+    }
+</style>
+<h4 style="text-align:center">ĐĂNG KÍ THÀNH VIÊN</h4>
+<br />
+@using (Html.BeginForm())
+{
+    <table style="height:500px;width:1000px">
+        <p id="p1">* Điền đủ thông tin đăng ký</p>
+        @Html.ValidationSummary(true)
+        <tr>
+            <th style="padding-left: 200px;font-size:18px; font-weight:700">Họ tên khách hàng<font color="red">*</font></th>
+            <td>
+                @Html.TextBox("HotenKH")
+            </td>
+            <td id="p1">@ViewData["Loi1"]</td>
+        </tr>
+        <tr>
+            <th style="padding-left: 200px; font-size: 18px; font-weight: 700">Tên đăng nhập<font color="red">*</font></th>
+            <td>
+                @Html.TextBox("TenDN")
+            </td>
+            <td id="p1">@ViewData["Loi2"]</td>
+        </tr>
+        <tr>
+            <th style="padding-left: 200px; font-size: 18px; font-weight: 700">Mật khẩu<font color="red">*</font></th>
+            <td>
+                @Html.Password("Matkhau")
+            </td>
+            <td id="p1">@ViewData["Loi3"]</td>
+        </tr>
+        <tr>
+            <th style="padding-left: 200px; font-size: 18px; font-weight: 700">Nhập lại mật khẩu<font color="red">*</font></th>
+            <td>
+                @Html.Password("Matkhaunhaplai")
+            </td>
+            <td id="p1">@ViewData["Loi4"]</td>
+        </tr>
+        <tr>
+            <th style="padding-left: 200px; font-size: 18px; font-weight: 700">Email<font color="red">*</font></th>
+            <td>
+                @Html.TextBox("Email")
+            </td>
+            <td id="p1">@ViewData["Loi5"]</td>
+        </tr>
+        <tr>
+            <th style="padding-left: 200px; font-size: 18px; font-weight: 700">Địa chỉ<font color="red">*</font></th>
+            <td>
+                @Html.TextBox("Diachi")
+            </td>
+            <td id="p1">@ViewData["Loi6"]</td>
+        </tr>
+        <tr>
+            <th style="padding-left: 200px; font-size: 18px; font-weight: 700">Số điện thoại<font color="red">*</font></th>
+            <td>
+                @Html.TextBox("Dienthoai")
+            </td>
+            <td id="p1">@ViewData["Loi7"]</td>
+        </tr>
+        <tr>
+            <th style="padding-left: 200px;font-size:18px; font-weight:700">Ngày sinh<font color="red">*</font></th>
+            <td>
+                <input type="date" name="Ngaysinh" />
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <br />
+                <input class="btn bg-primary text-white text-center" type="submit" value="Đăng Ký" />
+            </td>
+        </tr>
+    </table>
+}
+
+
+
+

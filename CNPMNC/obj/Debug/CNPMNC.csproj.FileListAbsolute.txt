@@ -209,6 +209,8 @@ D:\CNPM\CNMP\CNPMNC\bin\roslyn\vbc.rsp
 D:\CNPM\CNMP\CNPMNC\bin\roslyn\VBCSCompiler.exe
 D:\CNPM\CNMP\CNPMNC\bin\roslyn\VBCSCompiler.exe.config
 D:\CNPM\CNMP\CNPMNC\bin\Antlr3.Runtime.dll
+D:\CNPM\CNMP\CNPMNC\bin\EntityFramework.dll
+D:\CNPM\CNMP\CNPMNC\bin\EntityFramework.SqlServer.dll
 D:\CNPM\CNMP\CNPMNC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\CNPM\CNMP\CNPMNC\bin\Microsoft.Web.Infrastructure.dll
 D:\CNPM\CNMP\CNPMNC\bin\Newtonsoft.Json.dll
@@ -220,6 +222,8 @@ D:\CNPM\CNMP\CNPMNC\bin\System.Web.WebPages.Deployment.dll
 D:\CNPM\CNMP\CNPMNC\bin\System.Web.WebPages.dll
 D:\CNPM\CNMP\CNPMNC\bin\System.Web.WebPages.Razor.dll
 D:\CNPM\CNMP\CNPMNC\bin\WebGrease.dll
+D:\CNPM\CNMP\CNPMNC\bin\EntityFramework.xml
+D:\CNPM\CNMP\CNPMNC\bin\EntityFramework.SqlServer.xml
 D:\CNPM\CNMP\CNPMNC\bin\System.Web.Helpers.xml
 D:\CNPM\CNMP\CNPMNC\bin\System.Web.Mvc.xml
 D:\CNPM\CNMP\CNPMNC\bin\System.Web.Optimization.xml
@@ -232,6 +236,6 @@ D:\CNPM\CNMP\CNPMNC\bin\Antlr3.Runtime.pdb
 D:\CNPM\CNMP\CNPMNC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.AssemblyReference.cache
 D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.CoreCompileInputs.cache
-D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.Up2Date
+D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.CopyComplete
 D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.dll
 D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.pdb
