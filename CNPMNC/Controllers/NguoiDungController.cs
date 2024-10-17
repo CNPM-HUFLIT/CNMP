@@ -61,7 +61,7 @@ namespace CNPMNC.Controllers
             }
             else
             {
-                dbdangkyEntities1 db = new dbdangkyEntities1();
+                dbdangkyEntities2 db = new dbdangkyEntities2();
                 //Gan gia tri cho doi tuong duoc tao moi (kh)
                 kh.HoTen = hoten;
                 kh.Taikhoan = tendn;
@@ -97,7 +97,7 @@ namespace CNPMNC.Controllers
             }
             else
             {
-                dbdangkyEntities1 db = new dbdangkyEntities1();
+                dbdangkyEntities2 db = new dbdangkyEntities2();
                 //Gan cac doi tuong duoc tao moi(kh)
                 KHACHHANG kh = db.KHACHHANGs.SingleOrDefault(n => n.Taikhoan == tendn && n.Matkhau == matkhau);
                 if (kh != null)

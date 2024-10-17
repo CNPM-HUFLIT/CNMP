@@ -145,16 +145,18 @@
                 <div class="collapse navbar-collapse" id="main_nav">
                     <ul class="navbar-nav">
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="@Url.Action("DanhSach", "DanhSachSanPham")">
-                                <i class="fa fa-bars text-muted mr-2"></i> DANH MỤC
+                            <a class="nav-link" href="@Url.Action("DanhSachSP", "SanPham")">
+                                @*<i class="fa fa-bars text-muted mr-2"></i>*@ DANH MỤC SẢN PHẨM
                             </a>
-                            @*<div class="dropdown-menu">
-                                    <a class="dropdown-item" href="#">Trang Điểm</a>
-                                    <a class="dropdown-item" href="#">Son Môi</a>
-                                    <a class="dropdown-item" href="#">Nước Hoa</a>
-                                </div>*@
 
+                            <div class="dropdown-menu">
+                                @*<a class="dropdown-item" href="@Url.Action("DanhSachSP", "SanPham")">Danh Sách Sản Phẩm</a>*@
+                                @*<a class="dropdown-item" href="#">Trang Điểm</a>
+            <a class="dropdown-item" href="#">Son Môi</a>
+            <a class="dropdown-item" href="#">Nước Hoa</a>*@
+                            </div>
                         </li>
+
                         <li class="nav-item">
                             <a class="nav-link" href="#">THƯƠNG HIỆU</a>
                         </li>

@@ -13,7 +13,7 @@
     <Property Name="DienthoaiKH" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="Ngaysinh" Type="DateTime" Precision="3" />
   </EntityType>
-  <EntityContainer Name="dbdangkyEntities1" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="dbdangkyEntities2" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="KHACHHANGs" EntityType="Self.KHACHHANG" />
   </EntityContainer>
 </Schema>
