@@ -262,7 +262,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityContainer Name="DBQLQUANAOEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="DBQLQUANAOEntities2" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Admins" EntityType="Self.Admin" />
           <EntitySet Name="CHITIETDONHANGs" EntityType="Self.CHITIETDONHANG" />
           <EntitySet Name="DONDATHANGs" EntityType="Self.DONDATHANG" />
@@ -291,7 +291,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="DBQLQUANAOModelStoreContainer" CdmEntityContainer="DBQLQUANAOEntities">
+        <EntityContainerMapping StorageEntityContainer="DBQLQUANAOModelStoreContainer" CdmEntityContainer="DBQLQUANAOEntities2">
           <EntitySetMapping Name="Admins">
             <EntityTypeMapping TypeName="DBQLQUANAOModel.Admin">
               <MappingFragment StoreEntitySet="Admin">

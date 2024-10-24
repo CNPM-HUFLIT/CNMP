@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using PagedList;
+using System.Web.UI;
 
 namespace CNPMNC.Controllers
 {
@@ -61,7 +63,7 @@ namespace CNPMNC.Controllers
             }
             else
             {
-                DBQLQUANAOEntities db = new DBQLQUANAOEntities();
+                DBQLQUANAOEntities2 db = new DBQLQUANAOEntities2();
                 //Gan gia tri cho doi tuong duoc tao moi (kh)
                 kh.HoTen = hoten;
                 kh.Taikhoan = tendn;
@@ -97,7 +99,7 @@ namespace CNPMNC.Controllers
             }
             else
             {
-                DBQLQUANAOEntities db = new DBQLQUANAOEntities();
+                DBQLQUANAOEntities2 db = new DBQLQUANAOEntities2();
                 //Gan cac doi tuong duoc tao moi(kh)
                 KHACHHANG kh = db.KHACHHANGs.SingleOrDefault(n => n.Taikhoan == tendn && n.Matkhau == matkhau);
                 if (kh != null)
@@ -105,7 +107,7 @@ namespace CNPMNC.Controllers
                     //ViewBag.Thongbao = "Chúc mừng đăng nhập thành công!";
                     Session["Taikhoan"] = kh;
                     Session["TDN"] = kh.HoTen;
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("Index", "SanPham");
                 }
                 else
                     ViewBag.Thongbao = "Tên đăng nhập hoặc mật khẩu không đúng!";
@@ -118,5 +120,28 @@ namespace CNPMNC.Controllers
             return View();
 
         }
+        public ActionResult TimKiem()
+        {
+            return View();
+        }
+        DBQLQUANAOEntities2 db = new DBQLQUANAOEntities2();
+        [HttpGet]
+        public ActionResult TimKiem(string sTuKhoa, int? page)
+        {
+            int pageSize = 12;
+            int pageNumber = page ?? 1;
+            var lstSP = db.SanPhams.Where(n => n.TenSP.Contains(sTuKhoa) || string.IsNullOrEmpty(sTuKhoa));
+            ViewBag.TuKhoa = sTuKhoa;
+            return View(lstSP.OrderBy(n => n.TenSP).ToPagedList(pageNumber, pageSize));
+        }
+        [HttpPost]
+        public ActionResult LayTuKhoaTimKiem(string sTuKhoa)
+        {
+            if (string.IsNullOrEmpty(sTuKhoa))
+            {
+                return RedirectToAction("Layout", "Share"); // hoặc trang chính của bạn
+            }
+            return RedirectToAction("TimKiem", new { sTuKhoa = sTuKhoa });
+        }
     }
-}
+ }

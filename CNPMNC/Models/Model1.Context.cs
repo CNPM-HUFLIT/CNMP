@@ -13,10 +13,10 @@ namespace CNPMNC.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class DBQLQUANAOEntities : DbContext
+    public partial class DBQLQUANAOEntities2 : DbContext
     {
-        public DBQLQUANAOEntities()
-            : base("name=DBQLQUANAOEntities")
+        public DBQLQUANAOEntities2()
+            : base("name=DBQLQUANAOEntities2")
         {
         }
     

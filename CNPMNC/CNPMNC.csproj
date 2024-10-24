@@ -312,6 +312,9 @@
     <Content Include="Scripts\js\script.js" />
     <Content Include="Scripts\js\slider.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Upload\image\aothun1.png" />
+    <Content Include="Upload\image\aothun2.png" />
+    <Content Include="Upload\image\quan1.png" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -333,6 +336,7 @@
     <Content Include="Views\NguoiDung\DangXuat.cshtml" />
     <Content Include="Views\SanPham\Index.cshtml" />
     <Content Include="Views\SanPham\Details.cshtml" />
+    <Content Include="Views\NguoiDung\TimKiem.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

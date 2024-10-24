@@ -492,3 +492,7 @@ D:\CNPM_VER1\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.CoreCompileInputs.cache
 D:\CNPM_VER1\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.Up2Date
 D:\CNPM_VER1\CNMP\CNPMNC\obj\Debug\CNPMNC.dll
 D:\CNPM_VER1\CNMP\CNPMNC\obj\Debug\CNPMNC.pdb
+D:\CNPMNC\CNMP\CNPMNC\bin\PagedList.dll
+D:\CNPMNC\CNMP\CNPMNC\bin\PagedList.Mvc.dll
+D:\CNPMNC\CNMP\CNPMNC\bin\PagedList.xml
+D:\CNPMNC\CNMP\CNPMNC\bin\PagedList.Mvc.xml
