@@ -63,7 +63,7 @@ namespace CNPMNC.Controllers
             }
             else
             {
-                DBQLQUANAOEntities2 db = new DBQLQUANAOEntities2();
+                DBQLQUANAOEntities3 db = new DBQLQUANAOEntities3();
                 //Gan gia tri cho doi tuong duoc tao moi (kh)
                 kh.HoTen = hoten;
                 kh.Taikhoan = tendn;
@@ -99,7 +99,7 @@ namespace CNPMNC.Controllers
             }
             else
             {
-                DBQLQUANAOEntities2 db = new DBQLQUANAOEntities2();
+                DBQLQUANAOEntities3 db = new DBQLQUANAOEntities3();
                 //Gan cac doi tuong duoc tao moi(kh)
                 KHACHHANG kh = db.KHACHHANGs.SingleOrDefault(n => n.Taikhoan == tendn && n.Matkhau == matkhau);
                 if (kh != null)
@@ -124,7 +124,7 @@ namespace CNPMNC.Controllers
         {
             return View();
         }
-        DBQLQUANAOEntities2 db = new DBQLQUANAOEntities2();
+        DBQLQUANAOEntities3 db = new DBQLQUANAOEntities3();
         [HttpGet]
         public ActionResult TimKiem(string sTuKhoa, int? page)
         {

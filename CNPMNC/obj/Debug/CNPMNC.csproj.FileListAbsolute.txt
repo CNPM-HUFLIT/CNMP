@@ -236,7 +236,6 @@ D:\CNPM\CNMP\CNPMNC\bin\Antlr3.Runtime.pdb
 D:\CNPM\CNMP\CNPMNC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.AssemblyReference.cache
 D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.CoreCompileInputs.cache
-D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.CopyComplete
 D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.dll
 D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.pdb
 D:\CNPMNC\CNMP\CNPMNC\bin\CNPMNC.dll.config
@@ -496,3 +495,8 @@ D:\CNPMNC\CNMP\CNPMNC\bin\PagedList.dll
 D:\CNPMNC\CNMP\CNPMNC\bin\PagedList.Mvc.dll
 D:\CNPMNC\CNMP\CNPMNC\bin\PagedList.xml
 D:\CNPMNC\CNMP\CNPMNC\bin\PagedList.Mvc.xml
+D:\CNPM\CNMP\CNPMNC\bin\PagedList.dll
+D:\CNPM\CNMP\CNPMNC\bin\PagedList.Mvc.dll
+D:\CNPM\CNMP\CNPMNC\bin\PagedList.xml
+D:\CNPM\CNMP\CNPMNC\bin\PagedList.Mvc.xml
+D:\CNPM\CNMP\CNPMNC\obj\Debug\CNPMNC.csproj.Up2Date

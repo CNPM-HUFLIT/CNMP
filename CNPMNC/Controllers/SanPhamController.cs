@@ -11,7 +11,7 @@ namespace CNPMNC.Controllers
     public class SanPhamController : Controller
     {
         //// GET: SanPham
-        private readonly DBQLQUANAOEntities2 db = new DBQLQUANAOEntities2(); // Giả sử bạn có DbContext
+        private readonly DBQLQUANAOEntities3 db = new DBQLQUANAOEntities3(); // Giả sử bạn có DbContext
         private int? page;
 
         // GET: SanPham
