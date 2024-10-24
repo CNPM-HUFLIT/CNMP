@@ -7,7 +7,7 @@ namespace CNPMNC.Models
 {
     public class GioHang
     {
-        DBQLQUANAOEntities3 data = new DBQLQUANAOEntities3();
+        DBQLQUANAOEntities4 data = new DBQLQUANAOEntities4();
         public int iMaSP { set; get; }
         public string pTenSP { set; get; }
         public string pAnhbia { set; get; }

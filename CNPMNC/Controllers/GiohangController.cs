@@ -10,7 +10,7 @@ namespace CNPMNC.Controllers
     public class GiohangController : Controller
     {
         //Tao doi tuong data chua du lieu tu model dbBansach da tao
-        DBQLQUANAOEntities3 data = new DBQLQUANAOEntities3();
+        DBQLQUANAOEntities4 data = new DBQLQUANAOEntities4();
         //Lay gio hang
 
         public List<GioHang> LayGioHang()
@@ -166,6 +166,12 @@ namespace CNPMNC.Controllers
             data.SaveChanges();
             Session["Giohang"] = null;
             return RedirectToAction("Xacnhandonhang", "GioHang");
+        }
+        public ActionResult Xacnhandonhang()
+        {
+            List<GioHang> lstGioHang = LayGioHang();
+            lstGioHang.Clear();
+            return View();
         }
     }
 }

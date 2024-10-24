@@ -118,7 +118,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <EntityContainer Name="DBQLQUANAOEntities3" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="DBQLQUANAOEntities4" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Admins" EntityType="Self.Admin" />
     <EntitySet Name="CHITIETDONHANGs" EntityType="Self.CHITIETDONHANG" />
     <EntitySet Name="DONDATHANGs" EntityType="Self.DONDATHANG" />
