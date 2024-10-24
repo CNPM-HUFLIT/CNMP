@@ -4,8 +4,17 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="e90a2e396d424763a22a6314e1741999" Name="Diagram1">
-        <EntityTypeShape EntityType="dbdangkyModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+      <Diagram DiagramId="2785a62ec5e444a5ad22d31d3ecd74f7" Name="Diagram1">
+        <EntityTypeShape EntityType="DBQLQUANAOModel.Admin" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBQLQUANAOModel.CHITIETDONHANG" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBQLQUANAOModel.DONDATHANG" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBQLQUANAOModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBQLQUANAOModel.LoaiSP" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBQLQUANAOModel.SanPham" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="DBQLQUANAOModel.FK_Donhang" ManuallyRouted="false" />
+        <AssociationConnector Association="DBQLQUANAOModel.FK_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="DBQLQUANAOModel.FK_Khachhang" ManuallyRouted="false" />
+        <AssociationConnector Association="DBQLQUANAOModel.FK_Loai" ManuallyRouted="false" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

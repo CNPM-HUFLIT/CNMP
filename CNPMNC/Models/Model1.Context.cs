@@ -13,10 +13,10 @@ namespace CNPMNC.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class dbdangkyEntities2 : DbContext
+    public partial class DBQLQUANAOEntities : DbContext
     {
-        public dbdangkyEntities2()
-            : base("name=dbdangkyEntities2")
+        public DBQLQUANAOEntities()
+            : base("name=DBQLQUANAOEntities")
         {
         }
     
@@ -25,6 +25,11 @@ namespace CNPMNC.Models
             throw new UnintentionalCodeFirstException();
         }
     
+        public virtual DbSet<Admin> Admins { get; set; }
+        public virtual DbSet<CHITIETDONHANG> CHITIETDONHANGs { get; set; }
+        public virtual DbSet<DONDATHANG> DONDATHANGs { get; set; }
         public virtual DbSet<KHACHHANG> KHACHHANGs { get; set; }
+        public virtual DbSet<LoaiSP> LoaiSPs { get; set; }
+        public virtual DbSet<SanPham> SanPhams { get; set; }
     }
 }

@@ -14,6 +14,12 @@ namespace CNPMNC.Models
     
     public partial class KHACHHANG
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public KHACHHANG()
+        {
+            this.DONDATHANGs = new HashSet<DONDATHANG>();
+        }
+    
         public int MaKH { get; set; }
         public string HoTen { get; set; }
         public string Taikhoan { get; set; }
@@ -22,5 +28,8 @@ namespace CNPMNC.Models
         public string DiachiKH { get; set; }
         public string DienthoaiKH { get; set; }
         public Nullable<System.DateTime> Ngaysinh { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<DONDATHANG> DONDATHANGs { get; set; }
     }
 }

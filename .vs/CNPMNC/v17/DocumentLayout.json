@@ -1,45 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CNPMNC\\CNMP\\",
+  "WorkspaceRootPath": "D:\\CNPM_VER1\\CNMP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC\\CNMP\\cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnmp\\cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnmp\\cnpmnc\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC\\CNMP\\cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnmp\\cnpmnc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnmp\\cnpmnc\\views\\nguoidung\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\nguoidung\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnmp\\cnpmnc\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpmnc\\cnmp\\cnpmnc\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC\\CNMP\\cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM_VER1\\CNMP\\cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPMNC\\CNMP\\cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpm_ver1\\cnmp\\cnpmnc\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpm_ver1\\cnmp\\cnpmnc\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM_VER1\\CNMP\\cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM_VER1\\CNMP\\cnpmnc\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM_VER1\\CNMP\\cnpmnc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpm_ver1\\cnmp\\cnpmnc\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpm_ver1\\cnmp\\cnpmnc\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|d:\\cnpm_ver1\\cnmp\\cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM_VER1\\CNMP\\cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM_VER1\\CNMP\\cnpmnc\\views\\nguoidung\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\nguoidung\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM_VER1\\CNMP\\cnpmnc\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|D:\\CNPM_VER1\\CNMP\\cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2B7396E-3400-4A89-B6A6-62A7088433FC}|CNPMNC\\CNPMNC.csproj|solutionrelative:cnpmnc\\views\\sanpham\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,37 +70,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CNPMNC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CNPMNC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:47:25.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DangXuat.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\NguoiDung\\DangXuat.cshtml",
-              "RelativeDocumentMoniker": "CNPMNC\\Views\\NguoiDung\\DangXuat.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\NguoiDung\\DangXuat.cshtml",
-              "RelativeToolTip": "CNPMNC\\Views\\NguoiDung\\DangXuat.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "CNPMNC\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "CNPMNC\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T10:47:03.451Z",
+              "WhenOpened": "2024-10-24T16:39:47.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "CNPMNC\\Models\\Model1.Context.cs",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "CNPMNC\\Models\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:37:03.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "CNPMNC\\Models\\Model1.edmx",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "CNPMNC\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-24T16:36:27.023Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DangNhap.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\NguoiDung\\DangNhap.cshtml",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\NguoiDung\\DangNhap.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\NguoiDung\\DangNhap.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\NguoiDung\\DangNhap.cshtml",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\NguoiDung\\DangNhap.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\NguoiDung\\DangNhap.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -97,13 +121,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "NguoiDungController.cs",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Controllers\\NguoiDungController.cs",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Controllers\\NguoiDungController.cs",
               "RelativeDocumentMoniker": "CNPMNC\\Controllers\\NguoiDungController.cs",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Controllers\\NguoiDungController.cs",
               "RelativeToolTip": "CNPMNC\\Controllers\\NguoiDungController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T10:38:30.821Z",
               "EditorCaption": ""
@@ -112,22 +136,22 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SanPhamController.cs",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Controllers\\SanPhamController.cs",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Controllers\\SanPhamController.cs",
               "RelativeDocumentMoniker": "CNPMNC\\Controllers\\SanPhamController.cs",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Controllers\\SanPhamController.cs",
               "RelativeToolTip": "CNPMNC\\Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T14:47:57.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAANsBAAAAAAAAAAAAAL0BAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -136,53 +160,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CNPMNC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CNPMNC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:47:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAOoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T15:30:38.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\SanPham\\Details.cshtml",
+              "RelativeDocumentMoniker": "CNPMNC\\Views\\SanPham\\Details.cshtml",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\SanPham\\Details.cshtml",
+              "RelativeToolTip": "CNPMNC\\Views\\SanPham\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T16:40:27.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangXuat.cshtml",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\NguoiDung\\DangXuat.cshtml",
+              "RelativeDocumentMoniker": "CNPMNC\\Views\\NguoiDung\\DangXuat.cshtml",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\NguoiDung\\DangXuat.cshtml",
+              "RelativeToolTip": "CNPMNC\\Views\\NguoiDung\\DangXuat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T10:47:03.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHgAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-10T15:27:13.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Models\\Model1.edmx",
-              "RelativeDocumentMoniker": "CNPMNC\\Models\\Model1.edmx",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Models\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "CNPMNC\\Models\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-10-16T10:43:13.511Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "DanhsachSP.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
+              "DocumentMoniker": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
               "RelativeDocumentMoniker": "CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
+              "ToolTip": "D:\\CNPM_VER1\\CNMP\\CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
               "RelativeToolTip": "CNPMNC\\Views\\SanPham\\DanhsachSP.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-10T15:44:46.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_LayoutUser.cshtml",
-              "DocumentMoniker": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "RelativeDocumentMoniker": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "ToolTip": "D:\\CNPMNC\\CNMP\\CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "RelativeToolTip": "CNPMNC\\Views\\Shared\\_LayoutUser.cshtml",
-              "ViewState": "AgIAAGkCAAAAAAAAAAAcwIwCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T15:30:38.581Z",
               "EditorCaption": ""
             }
           ]
